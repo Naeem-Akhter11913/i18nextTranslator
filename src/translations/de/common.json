@@ -1,15 +1,15 @@
 {
 	"app": {
-		"format": {
-			"currency": "Gesamt: {{val, currency(USD)}}",
-			"datetime": "Heute ist {{now, datetime}}",
-			"numbers": "Dies ist pi: {{pi, number}}.",
-			"numbers-limit": "Dies ist pi: {{pi, number(minimumFractionDigits: 7) }}.",
-			"relative-time": "Etwas Wunderbares geschieht {{rel, relativetime}}!"
-		},
+		"hello": "hallow",
+		"i am a good boy": "ich bin ein braver Junge",
+		"You are a good girl": "Du bist ein braves Mädchen",
+		"You are a student": "Du bist eine Studentin",
+		"today is holi day": "heute ist Feiertag",
+		"yesterday is fun day": "gestern war ein Spaßtag",
 		"interpolation": "In diesem Übersetzungsbeispiel wird {{framework}} verwendet.",
 		"title": "react-i18next Übersetzungsbeispiel"
 	},
+	
 	"hoc": {
 		"text": "Dies ist ein Text, der innerhalb einer High Order Component (HOC) verwendet wird"
 	},

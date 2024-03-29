@@ -17,8 +17,8 @@ i18n.
                 common: common_de
             },
         },
-        fallbackLng: 'en',
-
+        fallbackLng: 'de',
+        
     });
 
 

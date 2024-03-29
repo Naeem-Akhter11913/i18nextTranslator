@@ -1,12 +1,11 @@
 {
 	"app": {
-		"format": {
-			"currency": "Total: {{val, currency(USD)}}",
-			"datetime": "Today is {{now, datetime}}",
-			"numbers": "This is pi: {{pi, number}}.",
-			"numbers-limit": "This is pi: {{pi, number(minimumFractionDigits: 7) }}.",
-			"relative-time": "Something wonderful happens {{rel, relativetime}}!"
-		},
+		"hello": "hello",
+		"i am a good boy": "i am a good boy",
+		"You are a good girl": "You are a good girl",
+		"You are a student": "You are a student",
+		"today is holi day": "today is holiday",
+		"yesterday is fun day": "yesterday is fun day",
 		"interpolation": "This translation example is using {{framework}}.",
 		"title": "react-i18next translation example"
 	},
